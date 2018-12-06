@@ -1,0 +1,1127 @@
+02072359 Guard 1559 begins shift
+02080016 falls asleep
+02080037 wakes up
+02080044 falls asleep
+02080053 wakes up
+02080056 falls asleep
+02080057 wakes up
+02082357 Guard 71 begins shift
+02090006 falls asleep
+02090059 wakes up
+02092352 Guard 1877 begins shift
+02100005 falls asleep
+02100049 wakes up
+02102357 Guard 2521 begins shift
+02110030 falls asleep
+02110044 wakes up
+02110049 falls asleep
+02110057 wakes up
+02120004 Guard 211 begins shift
+02120045 falls asleep
+02120058 wakes up
+02122347 Guard 829 begins shift
+02130001 falls asleep
+02130056 wakes up
+02140000 Guard 211 begins shift
+02140033 falls asleep
+02140042 wakes up
+02140053 falls asleep
+02140058 wakes up
+02150001 Guard 2647 begins shift
+02150016 falls asleep
+02150055 wakes up
+02160000 Guard 3251 begins shift
+02160033 falls asleep
+02160055 wakes up
+02170004 Guard 2017 begins shift
+02170012 falls asleep
+02170015 wakes up
+02170056 falls asleep
+02170059 wakes up
+02180004 Guard 1567 begins shift
+02180046 falls asleep
+02180049 wakes up
+02182358 Guard 71 begins shift
+02190049 falls asleep
+02190058 wakes up
+02200000 Guard 1567 begins shift
+02200028 falls asleep
+02200038 wakes up
+02210003 Guard 2819 begins shift
+02210019 falls asleep
+02210053 wakes up
+02220004 Guard 1567 begins shift
+02220030 falls asleep
+02220050 wakes up
+02220056 falls asleep
+02220058 wakes up
+02230001 Guard 71 begins shift
+02230033 falls asleep
+02230035 wakes up
+02230047 falls asleep
+02230051 wakes up
+02232359 Guard 71 begins shift
+02240047 falls asleep
+02240049 wakes up
+02240053 falls asleep
+02240057 wakes up
+02250001 Guard 1877 begins shift
+02250008 falls asleep
+02250047 wakes up
+02252359 Guard 3251 begins shift
+02260019 falls asleep
+02260030 wakes up
+02260042 falls asleep
+02260047 wakes up
+02270000 Guard 727 begins shift
+02270007 falls asleep
+02270026 wakes up
+02270030 falls asleep
+02270055 wakes up
+02280002 Guard 1171 begins shift
+03010002 Guard 727 begins shift
+03010028 falls asleep
+03010041 wakes up
+03012358 Guard 1823 begins shift
+03020017 falls asleep
+03020052 wakes up
+03030002 Guard 2423 begins shift
+03030014 falls asleep
+03030050 wakes up
+03040000 Guard 3251 begins shift
+03040046 falls asleep
+03040057 wakes up
+03042354 Guard 2819 begins shift
+03050003 falls asleep
+03050049 wakes up
+03052359 Guard 3299 begins shift
+03060025 falls asleep
+03060045 wakes up
+03062359 Guard 3251 begins shift
+03070009 falls asleep
+03070025 wakes up
+03070028 falls asleep
+03070046 wakes up
+03070051 falls asleep
+03070054 wakes up
+03080000 Guard 727 begins shift
+03080033 falls asleep
+03080058 wakes up
+03090000 Guard 71 begins shift
+03090009 falls asleep
+03090013 wakes up
+03090018 falls asleep
+03090020 wakes up
+03100002 Guard 2819 begins shift
+03100038 falls asleep
+03100055 wakes up
+03110004 Guard 1877 begins shift
+03110020 falls asleep
+03110048 wakes up
+03112352 Guard 1567 begins shift
+03120003 falls asleep
+03120016 wakes up
+03120024 falls asleep
+03120057 wakes up
+03122356 Guard 1877 begins shift
+03130029 falls asleep
+03130039 wakes up
+03130042 falls asleep
+03130054 wakes up
+03132358 Guard 3251 begins shift
+03140008 falls asleep
+03140017 wakes up
+03140037 falls asleep
+03140049 wakes up
+03150001 Guard 1567 begins shift
+03150021 falls asleep
+03150039 wakes up
+03150050 falls asleep
+03150052 wakes up
+03160004 Guard 2017 begins shift
+03160051 falls asleep
+03160055 wakes up
+03162359 Guard 71 begins shift
+03170016 falls asleep
+03170017 wakes up
+03170022 falls asleep
+03170030 wakes up
+03180003 Guard 3299 begins shift
+03180039 falls asleep
+03180047 wakes up
+03182350 Guard 727 begins shift
+03190000 falls asleep
+03190037 wakes up
+03192358 Guard 211 begins shift
+03200019 falls asleep
+03200022 wakes up
+03202351 Guard 3299 begins shift
+03210000 falls asleep
+03210050 wakes up
+03212358 Guard 613 begins shift
+03222351 Guard 2521 begins shift
+03230005 falls asleep
+03230038 wakes up
+03232359 Guard 727 begins shift
+03240024 falls asleep
+03240042 wakes up
+03250001 Guard 1879 begins shift
+03250019 falls asleep
+03250046 wakes up
+03250050 falls asleep
+03250054 wakes up
+03252356 Guard 211 begins shift
+03260007 falls asleep
+03260039 wakes up
+03262350 Guard 211 begins shift
+03270001 falls asleep
+03270013 wakes up
+03272348 Guard 1879 begins shift
+03280004 falls asleep
+03280016 wakes up
+03280019 falls asleep
+03280043 wakes up
+03290001 Guard 2423 begins shift
+03290024 falls asleep
+03290025 wakes up
+03290042 falls asleep
+03290048 wakes up
+03300000 Guard 1171 begins shift
+03310000 Guard 1823 begins shift
+03310041 falls asleep
+03310059 wakes up
+04010000 Guard 71 begins shift
+04010043 falls asleep
+04010049 wakes up
+04010056 falls asleep
+04010057 wakes up
+04020000 Guard 3251 begins shift
+04020023 falls asleep
+04020031 wakes up
+04020047 falls asleep
+04020059 wakes up
+04030004 Guard 1823 begins shift
+04030021 falls asleep
+04030044 wakes up
+04040002 Guard 2819 begins shift
+04040014 falls asleep
+04040021 wakes up
+04040053 falls asleep
+04040058 wakes up
+04042350 Guard 3299 begins shift
+04050004 falls asleep
+04050058 wakes up
+04060003 Guard 2521 begins shift
+04060007 falls asleep
+04060009 wakes up
+04060016 falls asleep
+04060044 wakes up
+04060047 falls asleep
+04060049 wakes up
+04060053 falls asleep
+04060059 wakes up
+04070000 Guard 3299 begins shift
+04070031 falls asleep
+04070038 wakes up
+04080000 Guard 2423 begins shift
+04080055 falls asleep
+04080059 wakes up
+04082348 Guard 727 begins shift
+04090004 falls asleep
+04090013 wakes up
+04090030 falls asleep
+04090054 wakes up
+04100000 Guard 2819 begins shift
+04100054 falls asleep
+04100059 wakes up
+04110000 Guard 2389 begins shift
+04112358 Guard 2423 begins shift
+04120036 falls asleep
+04120047 wakes up
+04120050 falls asleep
+04120052 wakes up
+04130000 Guard 2017 begins shift
+04130044 falls asleep
+04130047 wakes up
+04130052 falls asleep
+04130054 wakes up
+04140004 Guard 797 begins shift
+04140049 falls asleep
+04140057 wakes up
+04150001 Guard 829 begins shift
+04150024 falls asleep
+04150030 wakes up
+04150043 falls asleep
+04150044 wakes up
+04160004 Guard 1823 begins shift
+04160029 falls asleep
+04160051 wakes up
+04162359 Guard 2819 begins shift
+04170036 falls asleep
+04170050 wakes up
+04172357 Guard 829 begins shift
+04180026 falls asleep
+04180045 wakes up
+04190000 Guard 829 begins shift
+04190015 falls asleep
+04190016 wakes up
+04190024 falls asleep
+04190057 wakes up
+04192349 Guard 2423 begins shift
+04200004 falls asleep
+04200025 wakes up
+04200043 falls asleep
+04200049 wakes up
+04202358 Guard 2819 begins shift
+04210033 falls asleep
+04210052 wakes up
+04220000 Guard 2017 begins shift
+04220008 falls asleep
+04220059 wakes up
+04230001 Guard 2423 begins shift
+04230032 falls asleep
+04230045 wakes up
+04240001 Guard 1879 begins shift
+04240030 falls asleep
+04240046 wakes up
+04242350 Guard 1567 begins shift
+04250001 falls asleep
+04250020 wakes up
+04250030 falls asleep
+04250037 wakes up
+04260000 Guard 1171 begins shift
+04262357 Guard 797 begins shift
+04270016 falls asleep
+04270032 wakes up
+04270050 falls asleep
+04270054 wakes up
+04272359 Guard 3299 begins shift
+04280025 falls asleep
+04280027 wakes up
+04280045 falls asleep
+04280055 wakes up
+04282347 Guard 3251 begins shift
+04290002 falls asleep
+04290019 wakes up
+04290038 falls asleep
+04290047 wakes up
+04290055 falls asleep
+04290056 wakes up
+04292350 Guard 2521 begins shift
+04300005 falls asleep
+04300021 wakes up
+04300027 falls asleep
+04300032 wakes up
+04300041 falls asleep
+04300047 wakes up
+05010003 Guard 1823 begins shift
+05010046 falls asleep
+05010054 wakes up
+05012347 Guard 1823 begins shift
+05020001 falls asleep
+05020031 wakes up
+05020034 falls asleep
+05020053 wakes up
+05022357 Guard 3299 begins shift
+05030017 falls asleep
+05030050 wakes up
+05032357 Guard 3299 begins shift
+05040032 falls asleep
+05040035 wakes up
+05050001 Guard 1823 begins shift
+05050044 falls asleep
+05050058 wakes up
+05052348 Guard 71 begins shift
+05060003 falls asleep
+05060011 wakes up
+05060034 falls asleep
+05060047 wakes up
+05070004 Guard 2423 begins shift
+05070007 falls asleep
+05070057 wakes up
+05072358 Guard 3251 begins shift
+05080032 falls asleep
+05080050 wakes up
+05080056 falls asleep
+05080057 wakes up
+05082352 Guard 211 begins shift
+05090004 falls asleep
+05090017 wakes up
+05090033 falls asleep
+05090044 wakes up
+05100000 Guard 2521 begins shift
+05100014 falls asleep
+05100025 wakes up
+05100044 falls asleep
+05100059 wakes up
+05102356 Guard 71 begins shift
+05110013 falls asleep
+05110041 wakes up
+05110046 falls asleep
+05110053 wakes up
+05120003 Guard 829 begins shift
+05120026 falls asleep
+05120054 wakes up
+05130003 Guard 1559 begins shift
+05130015 falls asleep
+05130056 wakes up
+05140003 Guard 2647 begins shift
+05140014 falls asleep
+05140039 wakes up
+05140044 falls asleep
+05140049 wakes up
+05142356 Guard 211 begins shift
+05150048 falls asleep
+05150054 wakes up
+05152357 Guard 2017 begins shift
+05160034 falls asleep
+05160040 wakes up
+05170003 Guard 2819 begins shift
+05170014 falls asleep
+05170040 wakes up
+05170044 falls asleep
+05170048 wakes up
+05180003 Guard 211 begins shift
+05180006 falls asleep
+05180019 wakes up
+05190002 Guard 829 begins shift
+05190023 falls asleep
+05190028 wakes up
+05190055 falls asleep
+05190057 wakes up
+05192350 Guard 1559 begins shift
+05200005 falls asleep
+05200015 wakes up
+05200025 falls asleep
+05200039 wakes up
+05202354 Guard 211 begins shift
+05210000 falls asleep
+05210020 wakes up
+05210025 falls asleep
+05210035 wakes up
+05212357 Guard 1823 begins shift
+05220010 falls asleep
+05220047 wakes up
+05220052 falls asleep
+05220053 wakes up
+05230000 Guard 829 begins shift
+05230009 falls asleep
+05230026 wakes up
+05240000 Guard 71 begins shift
+05240041 falls asleep
+05240056 wakes up
+05242351 Guard 3023 begins shift
+05250002 falls asleep
+05250028 wakes up
+05252359 Guard 2423 begins shift
+05260022 falls asleep
+05260059 wakes up
+05262359 Guard 71 begins shift
+05270044 falls asleep
+05270056 wakes up
+05280000 Guard 829 begins shift
+05280017 falls asleep
+05280053 wakes up
+05282356 Guard 1567 begins shift
+05290035 falls asleep
+05290040 wakes up
+05290051 falls asleep
+05290056 wakes up
+05300000 Guard 3023 begins shift
+05300030 falls asleep
+05300038 wakes up
+05300041 falls asleep
+05300059 wakes up
+05310003 Guard 3023 begins shift
+05310026 falls asleep
+05310056 wakes up
+05312357 Guard 727 begins shift
+06010045 falls asleep
+06010050 wakes up
+06020000 Guard 1877 begins shift
+06020012 falls asleep
+06020022 wakes up
+06020026 falls asleep
+06020031 wakes up
+06020040 falls asleep
+06020053 wakes up
+06030001 Guard 797 begins shift
+06030024 falls asleep
+06030030 wakes up
+06030036 falls asleep
+06030057 wakes up
+06040000 Guard 3251 begins shift
+06040019 falls asleep
+06040043 wakes up
+06040050 falls asleep
+06040058 wakes up
+06050002 Guard 2647 begins shift
+06050023 falls asleep
+06050036 wakes up
+06060003 Guard 2017 begins shift
+06060041 falls asleep
+06060044 wakes up
+06060050 falls asleep
+06060057 wakes up
+06062346 Guard 727 begins shift
+06070000 falls asleep
+06070050 wakes up
+06072357 Guard 1567 begins shift
+06080031 falls asleep
+06080044 wakes up
+06080054 falls asleep
+06080057 wakes up
+06082356 Guard 1559 begins shift
+06090039 falls asleep
+06090046 wakes up
+06092351 Guard 787 begins shift
+06100005 falls asleep
+06100042 wakes up
+06102350 Guard 2371 begins shift
+06110001 falls asleep
+06110034 wakes up
+06110041 falls asleep
+06110051 wakes up
+06120004 Guard 2423 begins shift
+06120034 falls asleep
+06120059 wakes up
+06122358 Guard 829 begins shift
+06130015 falls asleep
+06130054 wakes up
+06132358 Guard 211 begins shift
+06140032 falls asleep
+06140054 wakes up
+06142359 Guard 1879 begins shift
+06150022 falls asleep
+06150033 wakes up
+06150037 falls asleep
+06150044 wakes up
+06150048 falls asleep
+06150055 wakes up
+06152357 Guard 829 begins shift
+06160007 falls asleep
+06160028 wakes up
+06162358 Guard 829 begins shift
+06170006 falls asleep
+06170015 wakes up
+06170021 falls asleep
+06170026 wakes up
+06172357 Guard 1559 begins shift
+06180031 falls asleep
+06180032 wakes up
+06180043 falls asleep
+06180053 wakes up
+06182352 Guard 1823 begins shift
+06190005 falls asleep
+06190035 wakes up
+06190041 falls asleep
+06190058 wakes up
+06200001 Guard 3023 begins shift
+06200030 falls asleep
+06200045 wakes up
+06202356 Guard 2423 begins shift
+06210040 falls asleep
+06210056 wakes up
+06212359 Guard 3299 begins shift
+06220033 falls asleep
+06220051 wakes up
+06222358 Guard 787 begins shift
+06230011 falls asleep
+06230041 wakes up
+06230047 falls asleep
+06230054 wakes up
+06232359 Guard 727 begins shift
+06240027 falls asleep
+06240041 wakes up
+06240044 falls asleep
+06240045 wakes up
+06240051 falls asleep
+06240054 wakes up
+06250000 Guard 2819 begins shift
+06250011 falls asleep
+06250024 wakes up
+06250055 falls asleep
+06250059 wakes up
+06252357 Guard 3023 begins shift
+06260010 falls asleep
+06260026 wakes up
+06262358 Guard 3023 begins shift
+06270042 falls asleep
+06270049 wakes up
+06280000 Guard 727 begins shift
+06280014 falls asleep
+06280058 wakes up
+06282356 Guard 2017 begins shift
+06290006 falls asleep
+06290044 wakes up
+06292357 Guard 2371 begins shift
+06300016 falls asleep
+06300026 wakes up
+06300053 falls asleep
+06300058 wakes up
+06302359 Guard 71 begins shift
+07010046 falls asleep
+07010059 wakes up
+07020000 Guard 1823 begins shift
+07020040 falls asleep
+07020043 wakes up
+07020047 falls asleep
+07020055 wakes up
+07022353 Guard 3023 begins shift
+07030003 falls asleep
+07030029 wakes up
+07030039 falls asleep
+07030045 wakes up
+07040000 Guard 3299 begins shift
+07040027 falls asleep
+07040042 wakes up
+07040048 falls asleep
+07040059 wakes up
+07042356 Guard 2521 begins shift
+07050017 falls asleep
+07050035 wakes up
+07050039 falls asleep
+07050057 wakes up
+07052357 Guard 3023 begins shift
+07060006 falls asleep
+07060011 wakes up
+07060015 falls asleep
+07060021 wakes up
+07060036 falls asleep
+07060041 wakes up
+07062351 Guard 1823 begins shift
+07070002 falls asleep
+07070028 wakes up
+07070037 falls asleep
+07070050 wakes up
+07080004 Guard 211 begins shift
+07080038 falls asleep
+07080043 wakes up
+07082357 Guard 1559 begins shift
+07090019 falls asleep
+07090050 wakes up
+07100003 Guard 2371 begins shift
+07100029 falls asleep
+07100054 wakes up
+07102346 Guard 1877 begins shift
+07110004 falls asleep
+07110032 wakes up
+07112356 Guard 829 begins shift
+07120020 falls asleep
+07120025 wakes up
+07120035 falls asleep
+07120043 wakes up
+07130001 Guard 1877 begins shift
+07130033 falls asleep
+07130039 wakes up
+07140003 Guard 3299 begins shift
+07140053 falls asleep
+07140056 wakes up
+07142359 Guard 211 begins shift
+07150032 falls asleep
+07150036 wakes up
+07150043 falls asleep
+07150051 wakes up
+07160001 Guard 2819 begins shift
+07160033 falls asleep
+07160059 wakes up
+07170000 Guard 1823 begins shift
+07170012 falls asleep
+07170056 wakes up
+07172358 Guard 2521 begins shift
+07180036 falls asleep
+07180049 wakes up
+07182354 Guard 787 begins shift
+07190003 falls asleep
+07190035 wakes up
+07190053 falls asleep
+07190054 wakes up
+07192354 Guard 2423 begins shift
+07200001 falls asleep
+07200003 wakes up
+07200031 falls asleep
+07200043 wakes up
+07200057 falls asleep
+07200059 wakes up
+07210002 Guard 1877 begins shift
+07210041 falls asleep
+07210049 wakes up
+07220000 Guard 1877 begins shift
+07220038 falls asleep
+07220041 wakes up
+07220045 falls asleep
+07220046 wakes up
+07220049 falls asleep
+07220054 wakes up
+07230001 Guard 2017 begins shift
+07230020 falls asleep
+07230034 wakes up
+07230054 falls asleep
+07230055 wakes up
+07232346 Guard 2423 begins shift
+07240002 falls asleep
+07240024 wakes up
+07240040 falls asleep
+07240047 wakes up
+07250003 Guard 2389 begins shift
+07252357 Guard 2521 begins shift
+07260015 falls asleep
+07260049 wakes up
+07260053 falls asleep
+07260058 wakes up
+07262356 Guard 3299 begins shift
+07270008 falls asleep
+07270038 wakes up
+07270041 falls asleep
+07270052 wakes up
+07280003 Guard 2521 begins shift
+07280006 falls asleep
+07280009 wakes up
+07290001 Guard 1879 begins shift
+07290045 falls asleep
+07290047 wakes up
+07292359 Guard 1877 begins shift
+07300049 falls asleep
+07300056 wakes up
+07310003 Guard 613 begins shift
+07312358 Guard 211 begins shift
+08010039 falls asleep
+08010046 wakes up
+08010054 falls asleep
+08010057 wakes up
+08012357 Guard 2017 begins shift
+08020009 falls asleep
+08020023 wakes up
+08020034 falls asleep
+08020052 wakes up
+08022353 Guard 829 begins shift
+08030002 falls asleep
+08030012 wakes up
+08030017 falls asleep
+08030037 wakes up
+08040001 Guard 211 begins shift
+08040018 falls asleep
+08040033 wakes up
+08042356 Guard 1567 begins shift
+08050018 falls asleep
+08050045 wakes up
+08060000 Guard 1559 begins shift
+08060043 falls asleep
+08060050 wakes up
+08060053 falls asleep
+08060059 wakes up
+08070004 Guard 2521 begins shift
+08070006 falls asleep
+08070017 wakes up
+08070025 falls asleep
+08070039 wakes up
+08070042 falls asleep
+08070056 wakes up
+08080003 Guard 211 begins shift
+08080020 falls asleep
+08080033 wakes up
+08090000 Guard 613 begins shift
+08092358 Guard 797 begins shift
+08100046 falls asleep
+08100059 wakes up
+08110001 Guard 2647 begins shift
+08110039 falls asleep
+08110049 wakes up
+08112354 Guard 2423 begins shift
+08120004 falls asleep
+08120040 wakes up
+08120052 falls asleep
+08120059 wakes up
+08130001 Guard 727 begins shift
+08130031 falls asleep
+08130053 wakes up
+08140000 Guard 71 begins shift
+08140025 falls asleep
+08140033 wakes up
+08140053 falls asleep
+08140059 wakes up
+08142356 Guard 727 begins shift
+08150020 falls asleep
+08150055 wakes up
+08152359 Guard 797 begins shift
+08160035 falls asleep
+08160057 wakes up
+08170004 Guard 2647 begins shift
+08170019 falls asleep
+08170050 wakes up
+08172347 Guard 1877 begins shift
+08180002 falls asleep
+08180008 wakes up
+08182358 Guard 1559 begins shift
+08190013 falls asleep
+08190034 wakes up
+08200003 Guard 797 begins shift
+08200049 falls asleep
+08200056 wakes up
+08202358 Guard 2647 begins shift
+08210007 falls asleep
+08210054 wakes up
+08220000 Guard 2017 begins shift
+08220010 falls asleep
+08220036 wakes up
+08230002 Guard 1559 begins shift
+08230023 falls asleep
+08230038 wakes up
+08230052 falls asleep
+08230055 wakes up
+08240004 Guard 787 begins shift
+08240047 falls asleep
+08240051 wakes up
+08242359 Guard 829 begins shift
+08250020 falls asleep
+08250024 wakes up
+08252356 Guard 2521 begins shift
+08260030 falls asleep
+08260042 wakes up
+08260057 falls asleep
+08260059 wakes up
+08270002 Guard 1823 begins shift
+08270037 falls asleep
+08270045 wakes up
+08270055 falls asleep
+08270059 wakes up
+08272356 Guard 1823 begins shift
+08280007 falls asleep
+08280027 wakes up
+08280044 falls asleep
+08280057 wakes up
+08282359 Guard 1879 begins shift
+08290020 falls asleep
+08290029 wakes up
+08290035 falls asleep
+08290046 wakes up
+08300002 Guard 797 begins shift
+08300009 falls asleep
+08300051 wakes up
+08310000 Guard 1877 begins shift
+08310040 falls asleep
+08310049 wakes up
+08310056 falls asleep
+08310057 wakes up
+09010000 Guard 2521 begins shift
+09010021 falls asleep
+09010031 wakes up
+09012358 Guard 1877 begins shift
+09020014 falls asleep
+09020044 wakes up
+09030003 Guard 2423 begins shift
+09030023 falls asleep
+09030030 wakes up
+09030050 falls asleep
+09030055 wakes up
+09032359 Guard 2647 begins shift
+09040045 falls asleep
+09040056 wakes up
+09042357 Guard 3299 begins shift
+09050024 falls asleep
+09050032 wakes up
+09050038 falls asleep
+09050059 wakes up
+09060001 Guard 1567 begins shift
+09060036 falls asleep
+09060058 wakes up
+09070004 Guard 787 begins shift
+09070038 falls asleep
+09070043 wakes up
+09070053 falls asleep
+09070055 wakes up
+09072356 Guard 1879 begins shift
+09080030 falls asleep
+09080045 wakes up
+09090004 Guard 1559 begins shift
+09090037 falls asleep
+09090058 wakes up
+09092358 Guard 2371 begins shift
+09100048 falls asleep
+09100052 wakes up
+09110004 Guard 3299 begins shift
+09110050 falls asleep
+09110059 wakes up
+09112358 Guard 2521 begins shift
+09120011 falls asleep
+09120057 wakes up
+09122359 Guard 1567 begins shift
+09130034 falls asleep
+09130046 wakes up
+09132357 Guard 3251 begins shift
+09140016 falls asleep
+09140056 wakes up
+09150003 Guard 1879 begins shift
+09150025 falls asleep
+09150030 wakes up
+09150037 falls asleep
+09150047 wakes up
+09160003 Guard 1879 begins shift
+09160022 falls asleep
+09160055 wakes up
+09162359 Guard 829 begins shift
+09170024 falls asleep
+09170048 wakes up
+09180000 Guard 1567 begins shift
+09180041 falls asleep
+09180051 wakes up
+09180056 falls asleep
+09180058 wakes up
+09190004 Guard 71 begins shift
+09190017 falls asleep
+09190019 wakes up
+09190027 falls asleep
+09190041 wakes up
+09200000 Guard 1879 begins shift
+09200023 falls asleep
+09200041 wakes up
+09200055 falls asleep
+09200057 wakes up
+09210003 Guard 2371 begins shift
+09210042 falls asleep
+09210052 wakes up
+09220000 Guard 3299 begins shift
+09220034 falls asleep
+09220053 wakes up
+09222356 Guard 211 begins shift
+09230017 falls asleep
+09230041 wakes up
+09240003 Guard 1877 begins shift
+09240018 falls asleep
+09240051 wakes up
+09250001 Guard 787 begins shift
+09250050 falls asleep
+09250056 wakes up
+09252359 Guard 2521 begins shift
+09260020 falls asleep
+09260053 wakes up
+09270004 Guard 3299 begins shift
+09270046 falls asleep
+09270054 wakes up
+09272358 Guard 829 begins shift
+09280024 falls asleep
+09280029 wakes up
+09280054 falls asleep
+09280058 wakes up
+09290003 Guard 727 begins shift
+09290040 falls asleep
+09290057 wakes up
+09300000 Guard 1823 begins shift
+09300053 falls asleep
+09300054 wakes up
+09302356 Guard 787 begins shift
+10010017 falls asleep
+10010056 wakes up
+10012356 Guard 211 begins shift
+10020007 falls asleep
+10020058 wakes up
+10030003 Guard 2371 begins shift
+10030023 falls asleep
+10030047 wakes up
+10030050 falls asleep
+10030051 wakes up
+10040001 Guard 2371 begins shift
+10040020 falls asleep
+10040048 wakes up
+10042356 Guard 797 begins shift
+10050033 falls asleep
+10050038 wakes up
+10050045 falls asleep
+10050055 wakes up
+10060000 Guard 2423 begins shift
+10060041 falls asleep
+10060050 wakes up
+10070003 Guard 71 begins shift
+10070031 falls asleep
+10070044 wakes up
+10070057 falls asleep
+10070058 wakes up
+10072359 Guard 727 begins shift
+10080014 falls asleep
+10080036 wakes up
+10080052 falls asleep
+10080059 wakes up
+10090003 Guard 787 begins shift
+10090022 falls asleep
+10090042 wakes up
+10092358 Guard 3023 begins shift
+10100039 falls asleep
+10100041 wakes up
+10100045 falls asleep
+10100050 wakes up
+10102359 Guard 1559 begins shift
+10110046 falls asleep
+10110059 wakes up
+10120003 Guard 1559 begins shift
+10120046 falls asleep
+10120049 wakes up
+10122357 Guard 2819 begins shift
+10130007 falls asleep
+10130009 wakes up
+10130049 falls asleep
+10130058 wakes up
+10140000 Guard 2647 begins shift
+10140009 falls asleep
+10140025 wakes up
+10140048 falls asleep
+10140057 wakes up
+10142357 Guard 1879 begins shift
+10150038 falls asleep
+10150049 wakes up
+10152348 Guard 1567 begins shift
+10160003 falls asleep
+10160012 wakes up
+10160037 falls asleep
+10160049 wakes up
+10162348 Guard 727 begins shift
+10170000 falls asleep
+10170001 wakes up
+10170004 falls asleep
+10170020 wakes up
+10180001 Guard 1879 begins shift
+10180009 falls asleep
+10180010 wakes up
+10180026 falls asleep
+10180032 wakes up
+10182357 Guard 3299 begins shift
+10190015 falls asleep
+10190024 wakes up
+10190036 falls asleep
+10190050 wakes up
+10200004 Guard 1567 begins shift
+10200049 falls asleep
+10200054 wakes up
+10202357 Guard 3299 begins shift
+10210008 falls asleep
+10210028 wakes up
+10210035 falls asleep
+10210059 wakes up
+10212356 Guard 797 begins shift
+10220038 falls asleep
+10220055 wakes up
+10230000 Guard 829 begins shift
+10230022 falls asleep
+10230027 wakes up
+10230050 falls asleep
+10230054 wakes up
+10232347 Guard 797 begins shift
+10240001 falls asleep
+10240045 wakes up
+10240052 falls asleep
+10240053 wakes up
+10242357 Guard 3251 begins shift
+10250020 falls asleep
+10250025 wakes up
+10250036 falls asleep
+10250059 wakes up
+10252356 Guard 3299 begins shift
+10260018 falls asleep
+10260040 wakes up
+10260043 falls asleep
+10260048 wakes up
+10270000 Guard 1879 begins shift
+10270024 falls asleep
+10270035 wakes up
+10270040 falls asleep
+10270052 wakes up
+10280004 Guard 2389 begins shift
+10282358 Guard 3251 begins shift
+10290035 falls asleep
+10290058 wakes up
+10300004 Guard 2647 begins shift
+10300006 falls asleep
+10300028 wakes up
+10300031 falls asleep
+10300041 wakes up
+10300050 falls asleep
+10300052 wakes up
+10302358 Guard 1567 begins shift
+10310034 falls asleep
+10310046 wakes up
+10310049 falls asleep
+10310055 wakes up
+10312358 Guard 2017 begins shift
+11010034 falls asleep
+11010038 wakes up
+11010051 falls asleep
+11010057 wakes up
+11020001 Guard 787 begins shift
+11020023 falls asleep
+11020041 wakes up
+11020051 falls asleep
+11020055 wakes up
+11030004 Guard 829 begins shift
+11030021 falls asleep
+11030026 wakes up
+11030032 falls asleep
+11030051 wakes up
+11032357 Guard 1823 begins shift
+11040042 falls asleep
+11040058 wakes up
+11050004 Guard 1877 begins shift
+11050018 falls asleep
+11050056 wakes up
+11060000 Guard 3023 begins shift
+11060009 falls asleep
+11060044 wakes up
+11062357 Guard 1823 begins shift
+11070027 falls asleep
+11070032 wakes up
+11070039 falls asleep
+11070043 wakes up
+11070052 falls asleep
+11070054 wakes up
+11072353 Guard 2819 begins shift
+11080000 falls asleep
+11080028 wakes up
+11080031 falls asleep
+11080047 wakes up
+11080050 falls asleep
+11080054 wakes up
+11082358 Guard 1567 begins shift
+11090030 falls asleep
+11090033 wakes up
+11092348 Guard 2819 begins shift
+11100002 falls asleep
+11100020 wakes up
+11102359 Guard 613 begins shift
+11112358 Guard 1559 begins shift
+11120026 falls asleep
+11120039 wakes up
+11120049 falls asleep
+11120050 wakes up
+11130000 Guard 1877 begins shift
+11130010 falls asleep
+11130043 wakes up
+11140000 Guard 727 begins shift
+11140030 falls asleep
+11140037 wakes up
+11142359 Guard 3251 begins shift
+11150027 falls asleep
+11150046 wakes up
+11160001 Guard 1171 begins shift
+11170001 Guard 2521 begins shift
+11170010 falls asleep
+11170045 wakes up
+11170051 falls asleep
+11170055 wakes up
+11172357 Guard 613 begins shift
+11190000 Guard 2423 begins shift
+11190026 falls asleep
+11190031 wakes up
+11190040 falls asleep
+11190058 wakes up
+11192353 Guard 1567 begins shift
+11200002 falls asleep
+11200045 wakes up
+11200048 falls asleep
+11200055 wakes up
+11202358 Guard 727 begins shift
+11210037 falls asleep
+11210040 wakes up
+11220001 Guard 71 begins shift
+11220023 falls asleep
+11220027 wakes up
+11230001 Guard 1567 begins shift
+11230034 falls asleep
+11230056 wakes up
